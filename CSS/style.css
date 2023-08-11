@@ -1,0 +1,80 @@
+nav a{text-decoration: none;
+    font-size: 40px;
+    margin:25px;
+    
+    }
+    nav{display: flex;
+    justify-content: space-around;}
+    
+    
+    .tr:hover{color: #76A63F;}
+    
+    
+    .link4{border: 3px solid #483D8B; padding: 10px;
+    transform: translateY(-15px);background-color: #483D8B;color: whitesmoke;border-radius: 10px;}
+    .link4:hover{background-color: black;}
+    .link:hover{color: #76A63F;}
+    .link1:hover{color: #76A63F;}
+    .link3:hover{color: #76A63F;}
+    .link2:hover{color: #76A63F;}
+    .link{margin-left: 70px;}
+    .ri2{border-radius: 15px;border: 3px solid #76A63F;
+    width: 300px;height: 80px;text-align: center;}
+    
+    .ri{border-radius: 15px;
+    border: 3px solid #76A63F;
+    width: 300px;
+    height: 80px;
+    text-align: center;
+    }
+    .ri1{border-radius: 15px;
+    border: 3px solid #76A63F;
+    width: 300px;height: 80px;
+    text-align: center;
+    background-color: rgb(146, 184, 108);
+    color: white;}+
+    h2{margin-top: 20px;
+    }
+    .frend{font-size: 40px;margin-left: 20px;}
+    .blok3{position: relative;bottom: 1200px;right: 100px;}
+    .blok1{position: relative;bottom: 50px;top: 150px;left: 350px;display: flex;}m
+    .frend{font-family: cursive;margin-left: 20px;font-size: 10px;}
+    .animals{margin-left: 30px;}
+    .ri:hover{background-color: rgb(146, 184, 108);color: white;}
+    .ri2:hover{background-color: rgb(146, 184, 108);color: white;}
+    .dog{display: flex;justify-content: space-around;border: 4px solid #76A63F;border-radius: 10px;margin-right: 20px;}
+    .pet{border-radius: 10px;border: 4px solid #76A63F;margin-right: 20px;}
+    .blok4{border: 4px solid #76A63F;border-radius: 10px;margin-right: 20px;}
+    .blok5{border: 4px solid #76A63F;border-radius: 10px;margin-right: 20px;}
+    .blok8{position: relative;bottom: 50px;top: 150px;left: 350px;display: flex;}
+    .blok6{border: 4px solid #76A63F;border-radius: 10px;margin-right: 20px;}
+    .blok7{border: 4px solid #76A63F;border-radius: 10px;margin-right: 20px;}
+    .blok9{border: 4px solid #76A63F;border-radius: 10px;margin-right: 20px;}
+    .blok10{border: 4px solid #76A63F;border-radius: 10px;margin-right: 20px;}
+    .animalsblok{position: relative;left: 100px;bottom: 50px;}
+    .blok6:hover{scale: 2;transition: 1s;}
+    .blok4:hover{scale: 1.5;transition: 1s;}
+    .blok5:hover{scale: 1.5;transition: 1s;}
+    .blok6:hover{scale: 1.5;transition: 1s;}
+    .blok7:hover{scale: 1.5;transition: 1s;}
+    .blok10:hover{scale: 1.5;transition: 1s;}
+    .blok9:hover{scale: 1.5;transition: 1s;}
+    .pet:hover{scale: 1.5;transition: 1s;}
+    .dog:hover{scale: 1.5;transition: 1s;}
+    .catalog{}
+    .um{position: relative;right: 200px;font-size: 25px;}
+    .mu{position: relative;left: 350px;bottom: 5px;font-size: 25px;}
+    .text2{position: relative;left: 110px;top: 2px;font-size: 25px;}
+    .text4{font-size: 25px; text-align: center;}
+    .text12{font-size: 30px;}
+    .text12:hover{color: #76A63F;transition: 1s;}
+    .pa{font-size: 25px;}
+    .par{position: relative;bottom: 140px;}
+    .pa:hover{color: #76A63F;transition: 1s;}
+    .last{width: 7000px;height: 400px;background-color: #483D8B;}
+    .logo2{position: relative;left: 990px;bottom: 260px;border-radius: 35px;}
+    .kira{position: relative;left: 1100px;bottom: 260px;font-size: 35px;}
+    .pet1{margin-top: 100px;margin-left: 100px;}
+.last{margin-bottom: 400px;}
+    .gladpet{font-size: 40px;position: relative;top: 100px;margin-left: 100px;}
+    body{background-image: url(https://phonoteka.org/uploads/posts/2021-05/1621383120_20-phonoteka_org-p-bezhevii-mramor-fon-23.jpg);width: 100%;}
